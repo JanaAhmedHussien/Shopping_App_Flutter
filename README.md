@@ -2,7 +2,7 @@
 
 A modern, fully-functional Flutter shopping application built as a comprehensive learning project. This app guides users from an aesthetic welcome screen through authentication and into a dynamic product browsing experience.
 
-![Aesthetic Flow Shop Demo](Shopping_App_Flutter/Screen Recording 2025-09-28 210433.gif) 
+![Aesthetic Flow Shop Demo](Screen Recording 2025-09-28 210433.gif) 
 
 ---
 
