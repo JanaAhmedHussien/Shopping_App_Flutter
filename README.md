@@ -53,13 +53,12 @@ The app simulates a real-world e-commerce interface, featuring user authenticati
 ### Prerequisites
 - **Flutter SDK** (ensure it's installed and your `flutter doctor` shows no issues)
 - An IDE like **VS Code** or **Android Studio** with the Flutter/Dart plugin.
-- **Git** for version control.
 
 ### Installation & Run
 1.  **Clone the repository**
     ```bash
     git clone https://github.com/JanaAhmedHussien/Shopping_App_Flutter.git
-    cd your-repo-name
+    cd Shopping_App_Flutter
     ```
 
 2.  **Get dependencies**
